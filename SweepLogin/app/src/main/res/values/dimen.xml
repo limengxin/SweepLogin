@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--输入框的高-->
+    <dimen name="text_height">50dp</dimen>
+    <!--左边距-->
+    <dimen name="reight">8dp</dimen>
+    <!--右边距-->
+    <dimen name="left">8dp</dimen>
+    <!--顶部状态栏的高-->
+    <dimen name="top_bar_height">40dp</dimen>
+    <!--局上边距-->
+    <dimen name="top">12dp</dimen>
+    <!--一级字体大小-->
+    <dimen name="first_text">14sp</dimen>
+    <!--二级字体大小-->
+    <dimen name="second_text">12sp</dimen>
+    <!--按钮高度-->
+    <dimen name="button_height">30dp</dimen>
+
+
+</resources>

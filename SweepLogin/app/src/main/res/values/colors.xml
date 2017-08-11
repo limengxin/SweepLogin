@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#87CEEB</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="top_bar_color">#87CEEB</color>
+
+    <!--一级字体灰-->
+    <color name="black9">#999999</color>
+    <!--二级字体中-->
+    <color name="black6">#666666</color>
+    <!--三级字体黑-->
+    <color name="black3">#333333</color>
+    <!--白色字体-->
+    <color name="white">#ffffff</color>
+</resources>

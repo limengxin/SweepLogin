@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">二维码识别</string>
+    <string name="et_username">please set username</string>
+    <string name="et_password">please set password</string>
+</resources>
